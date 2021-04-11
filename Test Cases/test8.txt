@@ -1,0 +1,2 @@
+ls -l | command1 ; command2
+command3 ; ls -l ; command4

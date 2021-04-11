@@ -1,0 +1,1 @@
+command1 ; quit ; command2 ; command3
